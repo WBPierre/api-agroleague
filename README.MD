@@ -8,7 +8,7 @@ Install [docker](https://www.docker.com/) and [docker-compose](https://docs.dock
 
 ```bash
 # Pull from github
-git clone 
+git clone https://github.com/WBPierre/api-agroleague.git
 cd api-agroleague
 ```
 
