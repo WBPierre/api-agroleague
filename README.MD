@@ -1,6 +1,6 @@
 # AgroLeague API
 
-AgroLeague API is an express NODEJS server running on top of Docker, with a Postgres databas.
+AgroLeague API is an express NODEJS server running on top of Docker, with a Postgres database. The .env file voluntarily present.
 
 ## Installation
 
