@@ -23,6 +23,7 @@ docker compose start
 ```bash
 # considering you at the root of the project
 cd api
+npx sequelize-cli create:db:test
 yarn jest
 ```
 
